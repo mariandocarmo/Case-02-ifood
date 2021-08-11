@@ -88,5 +88,5 @@ Utilizei os princípios do Scrum e por meio da ferramenta do Trello estruturei c
 
 
 ## Referências:
->CARVALHO, Renato. Atalhos de Home: New Tab Page prometem agilizar navegação no chrome. Disponível em: <https://www.techtudo.com.br/tudo-sobre/home-new-tab-page.html#:~:text=O%20Home%20%E2%80%93%20New%20Tab%20Page,do%20usu%C3%A1rios%20diretamente%20no%20navegador.&text=Funcionando%20basicamente%20como%20o%20display,mais%20utilizados%20da%20web%20atualmente.>. Acesso em: 08 ago. 2021.  
->SOFT, Enigma. Onmarshtompor.com. Disponível em: <https://www.enigmasoftware.com/pt/onmarshtomporcom-remocao/>. Acesso em: 08 ago. 2021. 
+>CARVALHO, Renato. __Atalhos de Home: New Tab Page prometem agilizar navegação no chrome.__ Disponível em: <https://www.techtudo.com.br/tudo-sobre/home-new-tab-page.html#:~:text=O%20Home%20%E2%80%93%20New%20Tab%20Page,do%20usu%C3%A1rios%20diretamente%20no%20navegador.&text=Funcionando%20basicamente%20como%20o%20display,mais%20utilizados%20da%20web%20atualmente.>. Acesso em: 08 ago. 2021.  
+>SOFT, Enigma. __Onmarshtompor.com.__ Disponível em: <https://www.enigmasoftware.com/pt/onmarshtomporcom-remocao/>. Acesso em: 08 ago. 2021. 
